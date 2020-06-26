@@ -50,6 +50,7 @@ Next and Previous buttons must be placed directly inside div tag to take effect,
 ```
 
 **Previous buttons are hidden on the first slide (on mobile devices) and on even-numbered slides (on desktop devices)**
+
 **Next buttons are hidden on the last slide (on mobile devices) and on odd-numbered slides (on desktop devices)**
 
 ### Editting Preset Scripts And Styles
